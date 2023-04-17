@@ -21,7 +21,7 @@
 
 <br>
 <div align=center>
-	<p>🎨 SNS & Portfolio 🎨</p>
+	<p>🎨 Channel</p>
 </div>
 <div align=center>
 	<a href="https://jeveloper.tistory.com">
