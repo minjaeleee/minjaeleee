@@ -32,9 +32,3 @@
 	</a>
 	<br>
 </div>
-<div align=center>
-	<br>
-	<img src="https://github-readme-stats.vercel.app/api?username=minjaeleee&show_icons=true">
-	<br>
-	<br>
-</div>
